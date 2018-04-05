@@ -1,0 +1,36 @@
+* {    
+    margin: 0px;
+    padding: 0px;
+    background: gray;
+}
+
+h1, p {
+  color: black;
+  font-family: 'Oswald', sans-serif;
+}
+
+footer {
+    color: black;
+    float: left;
+    font-size: 8px;
+    width: 100%;
+    height: auto;
+	position: absolute;
+	bottom: 0;
+}
+
+style {
+    justify-content: all;
+}
+
+
+
+
+
+
+
+
+
+
+
+
